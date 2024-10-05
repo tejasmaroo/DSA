@@ -47,11 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/tejasmaroo/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/tejasmaroo/DSA/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/tejasmaroo/DSA/tree/master/0189-rotate-array) |
+| [1013-fibonacci-number](https://github.com/tejasmaroo/DSA/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejasmaroo/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/tejasmaroo/DSA/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/tejasmaroo/DSA/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -70,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tejasmaroo/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/tejasmaroo/DSA/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/tejasmaroo/DSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
