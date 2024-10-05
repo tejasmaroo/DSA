@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejasmaroo/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/tejasmaroo/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/tejasmaroo/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/tejasmaroo/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/tejasmaroo/DSA/tree/master/0283-move-zeroes) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/tejasmaroo/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Two Pointers
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/tejasmaroo/DSA/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/tejasmaroo/DSA/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/tejasmaroo/DSA/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tejasmaroo/DSA/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/tejasmaroo/DSA/tree/master/0268-missing-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/tejasmaroo/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Counting
 |  |
@@ -51,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/tejasmaroo/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/tejasmaroo/DSA/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/tejasmaroo/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/tejasmaroo/DSA/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/tejasmaroo/DSA/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -87,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/tejasmaroo/DSA/tree/master/0268-missing-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/tejasmaroo/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
@@ -100,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/tejasmaroo/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/tejasmaroo/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
