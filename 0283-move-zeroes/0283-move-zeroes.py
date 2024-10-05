@@ -3,15 +3,22 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        zero_count = nums.count(0)
-        flag = 0
-        if len(nums) == 1:
-            nums = nums
-        while flag <= zero_count:
-            for i in range(len(nums)):
-                if nums[i] == 0 and i + 1 != len(nums):
-                    t = nums[i]
-                    nums[i] = nums[i + 1]
-                    nums[i + 1] = t
-            flag += 1
+        temp = []
+        a = nums
+        n = len(nums)
+        # Copy non-zero elements from original to temp array
+        for i in range(n):
+            if a[i] != 0:
+                temp.append(a[i])
+        
+        # Number of non-zero elements
+        nz = len(temp)
+        
+        # Copy elements from temp to fill first nz fields of original array
+        for i in range(nz):
+            a[i] = temp[i]
+        
+        # Fill the rest of the cells with 0
+        for i in range(nz, n):
+            a[i] = 0
             
