@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/tejasmaroo/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/tejasmaroo/DSA/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/tejasmaroo/DSA/tree/master/1013-fibonacci-number) |
+| [2032-largest-odd-number-in-string](https://github.com/tejasmaroo/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/tejasmaroo/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/tejasmaroo/DSA/tree/master/0392-is-subsequence) |
 | [1078-remove-outermost-parentheses](https://github.com/tejasmaroo/DSA/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/tejasmaroo/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/tejasmaroo/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2032-largest-odd-number-in-string](https://github.com/tejasmaroo/DSA/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
