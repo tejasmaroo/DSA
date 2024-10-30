@@ -22,7 +22,6 @@ class Solution:
         elif lenB > lenA:
             for _ in range(lenB - lenA):
                 currB = currB.next
-                
         while currA and currB:
             if currA == currB:
                 return currA
