@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/tejasmaroo/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/tejasmaroo/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tejasmaroo/DSA/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/tejasmaroo/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/tejasmaroo/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/tejasmaroo/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/tejasmaroo/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/tejasmaroo/DSA/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/tejasmaroo/DSA/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/tejasmaroo/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/tejasmaroo/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/tejasmaroo/DSA/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/tejasmaroo/DSA/tree/master/1078-remove-outermost-parentheses) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tejasmaroo/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/tejasmaroo/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/tejasmaroo/DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
